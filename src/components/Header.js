@@ -6,11 +6,11 @@ class Header extends React.Component {
 
     render() {
         return ( 
-            <div className="app container">
+            <header className="app container">
                 <div className="row">
-                  Menu
+                  <h2>Header</h2>
                 </div>
-            </div>
+            </header>
         )
     }
 }
