@@ -6,10 +6,8 @@ class Header extends React.Component {
 
     render() {
         return ( 
-            <header className="app container">
-                <div className="row">
-                  <h2>Header</h2>
-                </div>
+            <header className="container-fluid">
+                <h2>Header</h2>
             </header>
         )
     }
