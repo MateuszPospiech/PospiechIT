@@ -7,7 +7,7 @@ class Section extends React.Component {
 
     render() {
         return ( 
-            <section className="">
+            <section className="container pb-5">
                 <h2>Sekcja </h2>
                 <div className="row">
                     <InfoBox title="Tytuł" content="opis" />
