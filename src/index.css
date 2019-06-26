@@ -20,4 +20,5 @@ code {
 
 .main-bg{ 
   background: url("img/bg.svg") no-repeat;
+  background-size: cover;
 }
